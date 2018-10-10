@@ -267,6 +267,8 @@ Stanley
 Stephen
 Steve
 Steven
+Sullivan
+Taylor
 Ted
 Terrance
 Terrence
@@ -297,4 +299,5 @@ Wesley
 Willard
 William
 Willie
+Winston
 Zachary
